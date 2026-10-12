@@ -22,15 +22,6 @@ Businesses can view appointment statistics, including total, approved, and pendi
 
 > **Tip:** Add your screenshots to a `screenshots/` folder in the repository and embed them here using Markdown image links.
 
-Example:
-
-```markdown
-![Registration Screen](screenshots/register.png)
-![Create Appointment](screenshots/create-appointment.png)
-![Customer Dashboard](screenshots/customer-dashboard.png)
-![Business Dashboard](screenshots/business-dashboard.png)
-```
-
 ## ✨ Features
 
 ### 🔐 User Authentication
