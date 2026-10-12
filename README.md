@@ -20,7 +20,6 @@ Customers can view their appointments and track their status, including pending 
 
 Businesses can view appointment statistics, including total, approved, and pending appointments. They can review appointment requests and approve them.
 
-> **Tip:** Add your screenshots to a `screenshots/` folder in the repository and embed them here using Markdown image links.
 
 ## ✨ Features
 
