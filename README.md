@@ -2,7 +2,7 @@
 
 A Flutter-based mobile application that simplifies appointment booking between customers and businesses. Customers can explore registered businesses, book appointments, and track their appointment status, while businesses can manage incoming appointment requests and approve bookings.
 
-## 📱 Application Screenshots
+## 📱 Application 
 
 ### 1. User Registration
 
