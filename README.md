@@ -157,7 +157,14 @@ flutter run
 
 ## 💾 Data Storage
 
-The application uses **SharedPreferences** to store user information, the current login session, and appointment data locally on the device.
+- The application uses Supabase, a Backend-as-a-Service (BaaS) platform, with a PostgreSQL database for cloud-based data storage.
+- Cloud Database: Stores user profiles, business details, and appointment information.
+- Authentication: Manages user registration and login.
+- Real-Time Updates: Supports appointment status updates.
+- Data Synchronization: Enables access across multiple devices.
+- Security: Uses Row Level Security (RLS) to protect data.
+
+Integration: The Flutter application connects to Supabase using the supabase_flutter package.
 
 The current implementation does not use a remote database or cloud backend. Data synchronization between different devices is not provided by this local storage approach.
 
